@@ -18,13 +18,13 @@ dotnet run
 ## 🔍 Observability & Tooling  
 
 - **Windows Terminal** for real-time logs:  
-  <img width="826" height="488" alt="logs" src="https://github.com/user-attachments/assets/e0d8b849-650b-470e-ba8e-43813e854ccf" />  
-
+  <img width="873" height="486" alt="image" src="https://github.com/user-attachments/assets/8543ff64-55a1-4111-afa8-4954bc8712a8" />
+ 
 - **Postman** for API testing:  
-  <img width="1138" height="1031" alt="postman" src="https://github.com/user-attachments/assets/e05dc1fc-0538-4724-8ead-22f3f829d372" />  
+  <img width="1221" height="1027" alt="image" src="https://github.com/user-attachments/assets/0ff47938-6fb4-47f4-acc9-91c594706c91" />
 
 - **Swagger UI** for interactive API docs:  
-  <img width="1506" height="906" alt="swagger" src="https://github.com/user-attachments/assets/6a830498-311f-4ae1-9cfa-8a686f523964" />  
+  <img width="1718" height="910" alt="image" src="https://github.com/user-attachments/assets/c165b8db-c9d1-45f3-9d8c-23c1470bf3d0" />
 
 ---
 
